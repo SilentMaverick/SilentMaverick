@@ -1,11 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:101828,50:174d58,100:73e0c1&text=hello%2C%20world&fontColor=f4fff9&fontSize=48&fontAlignY=40&desc=I'm%20SilentMaverick%20%E2%80%94%20I%20make%20things%20with%20code&descAlignY=61&descSize=15" width="100%" alt="Hello, world — I'm SilentMaverick, I make things with code" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:101828,50:174d58,100:73e0c1&text=hello%2C%20world&fontColor=f4fff9&fontSize=48&fontAlignY=40&desc=I'm%20SilentMaverick%20%E2%80%94%20I%20make%20things%20with%20code&descAlignY=61&descSize=15" width="100%" alt="Hello, world" />
+
+![Cover](coverImg.gif)
 
 ### code, curiosity & a little bit of ✨
 
 [GitHub](https://github.com/SilentMaverick)　·　[Projects](#a-few-things-on-my-desk)　·　[Open-source notes](#out-in-the-open)
 
+<img align='right' src="robhi.gif" width="230">
 </div>
 
 <br>
